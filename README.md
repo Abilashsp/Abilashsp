@@ -2,8 +2,6 @@
 
 ### Full Stack Developer | MERN Stack | JavaScript | Automation | Open Source Enthusiast
 
----
-
 ## 🚀 About Me
 
 I'm a passionate Full Stack Developer specializing in building modern, scalable web applications. With expertise in the MERN stack and a strong focus on clean code and automation, I love turning ideas into reality through technology.
@@ -18,17 +16,12 @@ I'm a passionate Full Stack Developer specializing in building modern, scalable 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -58,10 +51,9 @@ UI/UX designs for gaming applications
 
 ## 📫 Connect With Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: [abilashsp07@gmail.com](mailto:abilashsp07@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/abilash-s-dev](https://www.linkedin.com/in/abilash-s-dev/)
+- 🌐 Portfolio: [abilash-dev-07.vercel.app](https://abilash-dev-07.vercel.app/)
 
 ---
 
